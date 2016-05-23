@@ -1,0 +1,6 @@
+: :::: :
+: .||. :
+ : __ :   ... I dare say, who needs a shebang anyway?
+  #--#
+
+head -4 "$0"
